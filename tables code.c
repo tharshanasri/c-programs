@@ -11,7 +11,7 @@ int main()
     printf("Multiplication table of %d:\n", num);
     while (i <= 10) 
          { 
-        printf("%d x %d = %d\n", num, i,            num * i);
+        printf("%d x %d = %d\n", num, i,        num * i);
         i++;
          }
 
